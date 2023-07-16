@@ -19,8 +19,8 @@ In MS Windows 10, enter `settings/language/language option/keyboard`.
 - if you choose `Qwerty` (and you have the dvorak layout by using keyboard customization such as QMK), download `BiblicalHebrewOnQwerty_NGS10_4.set`.
 
 윈도우10의 `설정(Settings)/언어(Language)/언어옵션(Language Option)/자판(Keyboard)`에서
-- `Dvorak`을 선택했다면, `New3OnDvorak_NGS10_4.set`을 내려받는다. 
-- `Qwerty` 계열을 선택했다면 (QMK와 같이 자판 자체 기능으로 배열을 `Dvorak`으로 바꾼 경우), `New3OnQwerty_NGS10_4.set`을 내려받는다.
+- `Dvorak`을 선택했다면, `BiblicalHebrewOnDvorak_NGS10_4.set`을 내려받는다. 
+- `Qwerty` 계열을 선택했다면 (QMK와 같이 자판 자체 기능으로 배열을 `Dvorak`으로 바꾼 경우), `BiblicalHebrewOnDvorak_NGS10_4.set`을 내려받는다.
  
 ## How to set 설정 방법
 - Install [NGS](http://moogi.new21.org/ngs_download.htm).
