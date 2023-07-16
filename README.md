@@ -10,8 +10,8 @@ NGS setting files for BiblicalHebrewOnDvorak
 
 > https://github.com/awfrok/HangulNew3onDvorak
 
-![KeyboardLayout_BiblicalHebrewOnDvorak_v0.1](https://github.com/awfrok/BiblicalHebrewOnDvorak/blob/main/KeyboardLayout_BiblicalHebrewOnDvorak_v0.1.jpg?raw=true)
 
+![](https://github.com/awfrok/BiblicalHebrewOnDvorak/blob/main/BiblicalHebrewOnDvorak_0.1.1.jpg?raw=true)
 
 
 ## What to choose 설정 파일 고르는 법
