@@ -1,13 +1,10 @@
 # BiblicalHebrewOnDvorak-NGS-setting
-성서 히브리어 알파벳을 드보락에 맞추어 사용할 수 있도록 만든 날개셋 입력기 설정 파일 
-
-NGS setting files for BiblicalHebrewOnDvorak
 
 
  ## What this is
 
-- 성서 히브리어 글쇠배열을 Dvorak에 어울리에 배열하여 사용하기 위해 만든 날개셋 입력기 설정 파일이다.
-- NGS setting files for Biblical Hebrew populated on Dvorak.
+- 음가를 기준으로 하여 성서 히브리어 글쇠배열을 Dvorak에 어울리에 배열하여 사용하기 위해 만든 날개셋 입력기 설정 파일이다.
+- NGS setting files for Biblical Hebrew populated on Dvorak according to sound.
 
 > [https://github.com/awfrok/HangulNew3onDvorak](https://github.com/awfrok/BiblicalHebrewOnDvorak)
 
