@@ -25,18 +25,19 @@ In MS Windows 10, enter `settings/language/language option/keyboard`.
 - `Qwerty` 계열을 선택했다면 (QMK와 같이 자판 자체 기능으로 배열을 `Dvorak`으로 바꾼 경우), `New3OnQwerty_NGS10_4.set`을 내려받는다.
  
 ## How to set 설정 방법
-1. Install [NGS](http://moogi.new21.org/ngs_download.htm).
-1. [날개셋 입력기](http://moogi.new21.org/ngs_download.htm)를 설치한다.
-2. import the setting file.
-2. 설정파일을 부른다.
+- Install [NGS](http://moogi.new21.org/ngs_download.htm).
+- [날개셋 입력기](http://moogi.new21.org/ngs_download.htm)를 설치한다.
+
+- import the setting file.
+- 설정파일을 부른다.
 
 
 
 ## 주의 Condition
-1. MS Windows 10 pro En 64bit, NGS 10.4. In other conditions, it may not work properly.
-1. 윈도우10 pro 영문판 64bit, 날개셋입력기 10.4에서 만든 설정파일이다. 다른 환경에서 작동하지 않을 수 있다.
+- MS Windows 10 pro En 64bit, NGS 10.4. In other conditions, it may not work properly.
+- 윈도우10 pro 영문판 64bit, 날개셋입력기 10.4에서 만든 설정파일이다. 다른 환경에서 작동하지 않을 수 있다.
 
 ## License
-When I understand open-source license, I will add license condition.
-open-source에 대해 아직 license 등을 어떻게 지정해야 하는지 몰라서 추후에 하겠다.
+- When I understand open-source license, I will add license condition.
+- open-source에 대해 아직 license 등을 어떻게 지정해야 하는지 몰라서 추후에 하겠다.
 
